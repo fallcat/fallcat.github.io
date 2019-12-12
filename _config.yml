@@ -185,6 +185,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  personal:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
