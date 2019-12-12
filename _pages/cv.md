@@ -42,15 +42,6 @@ Publications
 ======
 * Hard-Coded Gaussian Attention for Neural Machine Translation, Under Review ACL 2020
   * Weiqiu You*, Simeng Sun*, Mohit Iyyer
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 
 Teaching
 ======
@@ -58,9 +49,6 @@ Teaching
   * Led lab sessions for Data Structures and Algorithms
   * Held Q&A sessions for Calculus and SPSS in Biostatistics
   * Graded for Calculus II and Differential Equations
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 Service and leadership
 ======
