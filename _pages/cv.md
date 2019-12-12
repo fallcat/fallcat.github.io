@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Gordon College, 2018
+* M.S. in University of Massachusetts, Amherst, 2020 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan.-Dec. 2019: Research Assistant
+  * University of Massachusetts, Amherst
+  * Projects:
+    * Transformer with Hard-Coded Attention
+    * RNN Machine Translation Faster Decoder
+  * Supervisor: Professor Mohit Iyyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Research Intern
+  * NLP Center, Meituan-Dianping Inc., Beijing, China
+  * Projects:
+    * Key phrase extraction
+  * Supervisor: Dr. Zhongyuan Wang
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java, C++, C#, JavaScript, Ruby, Prolog
+* Frameworks: PyTorch, ASP.NET, Ruby on Rails
+* Languages:
+  * Fluent: Chinese, English
+  * Intermediate: Japanese (N2)
+  * Beginner: Hungarian
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+* Hard-Coded Gaussian Attention for Neural Machine Translation, Under Review ACL 2020
+  * Weiqiu You*, Simeng Sun*, Mohit Iyyer
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* Jan. 2016 – May 2018: Math and Computer Science Department, Gordon College
+  * Led lab sessions for Data Structures and Algorithms
+  * Held Q&A sessions for Calculus and SPSS in Biostatistics
+  * Graded for Calculus II and Differential Equations
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder and President, Gordon College Go Club
