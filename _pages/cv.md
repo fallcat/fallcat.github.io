@@ -41,7 +41,7 @@ Skills
 Publications
 ======
 * Hard-Coded Gaussian Attention for Neural Machine Translation, Under Review ACL 2020
-  * Weiqiu You*, Simeng Sun*, Mohit Iyyer
+  * Weiqiu You\*, Simeng Sun\*, Mohit Iyyer
 
 Teaching
 ======
