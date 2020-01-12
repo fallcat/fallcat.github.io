@@ -51,6 +51,8 @@ Teaching
   * Led lab sessions for Data Structures and Algorithms
   * Held Q&A sessions for Calculus and SPSS in Biostatistics
   * Graded for Calculus II and Differential Equations
+* Jan. 2020 - May 2020: College of Information and Computer Sciences, UMass Amherst
+  * Grade for COMPSCI685 Advanced Natural Language Processing
 
 Service and leadership
 ======
