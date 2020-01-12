@@ -31,6 +31,10 @@
   list-style-type: none;
 }
 
+.archive > ul ul {
+  font-size: $type-size-6;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
