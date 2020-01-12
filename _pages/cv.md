@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My 1 page cv can be found [here](/assets/cv.pdf)
+My 1 page cv can be found [here](/assets/pdf/cv.pdf)
 
 Education
 ======
