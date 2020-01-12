@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My 1 page cv can be found [here](/assets/cv.pdf)
+
 Education
 ======
 * B.S. in Gordon College, 2018
