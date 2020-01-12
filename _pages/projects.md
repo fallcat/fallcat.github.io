@@ -25,7 +25,7 @@ Research Projects
 
 Course Projects
 ======
-* Scientific Paper Task, Problem and Contribution Identification and Tracking \[[pdf](/assets/pdf/sci_paper_kb.pdf)\] \[[code](https://github.com/fallcat/sci-paper-kb)
+* Scientific Paper Task, Problem and Contribution Identification and Tracking \[[pdf](/assets/pdf/sci_paper_kb.pdf)\] \[[code](https://github.com/fallcat/sci-paper-kb)\]
   * Implemented candidates extraction by rules
   * Fine-tuned SciBERT on sentences that contain datasets to identify candidates that are true datasets
 * Chinese to English Machine Translation Specialized in Game of Go and Cooking Recipe (Low-Resource Setting) \[[pdf](/assets/pdf/go_nmt.pdf)\]
