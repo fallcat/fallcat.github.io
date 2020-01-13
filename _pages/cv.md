@@ -20,15 +20,10 @@ Research experience
 ======
 * Jan.-Dec. 2019: Research Assistant
   * University of Massachusetts, Amherst
-  * Projects:
-    * Transformer with Hard-Coded Attention
-    * RNN Machine Translation Faster Decoder
   * Supervisor: Professor Mohit Iyyer
 
 * Summer 2018: Research Intern
   * NLP Center, Meituan-Dianping Inc., Beijing, China
-  * Projects:
-    * Key phrase extraction
   * Supervisor: Dr. Zhongyuan Wang
 
 Skills
