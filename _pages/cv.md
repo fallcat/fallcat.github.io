@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-My 1 page cv can be found [here](/assets/pdf/cv.pdf)
 
 Education
 ======
@@ -34,11 +33,6 @@ Skills
   * Fluent: Chinese, English
   * Intermediate: Japanese (N2)
   * Beginner: Hungarian
-
-Publications
-======
-* Hard-Coded Gaussian Attention for Neural Machine Translation, Under Review ACL 2020
-  * Weiqiu You\*, Simeng Sun\*, Mohit Iyyer
 
 Teaching
 ======
