@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+My 1 page cv can be found [here](/assets/pdf/cv.pdf)
 
 Education
 ======
-* B.S. in Gordon College, 2018
-* M.S. in University of Massachusetts, Amherst, 2020 (expected)
+* B.S. in Gordon College, 2014-2018
+* M.S. in University of Massachusetts, Amherst, 2018-2020
+* Ph.D. in University of Pennsylvania, 2020-
+
+Publications
+======
+* Hard-Coded Gaussian Attention for Neural Machine Translation, ACL 2020
+  * Weiqiu You\*, Simeng Sun\*, Mohit Iyyer
 
 Research experience
 ======
