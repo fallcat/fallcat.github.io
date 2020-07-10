@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weiqiu You"
   avatar           : "profile_pic.jpeg"
-  bio              : "Master Student of Computer Science at UMass Amherst, research broadly interested in Natural Language Processing, more specifically machine translation, controlled language generation, low-resource languages"
+  bio              : "Incoming PhD Student of Computer Science at University of Pennsylvania, research broadly interested in Natural Language Processing, more specifically NLP+CV. machine translation, low-resource scenarios"
   location         : "Amherst, MA"
   employer         :
   pubmed           :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "youweiqiu"
   vine             :
   weibo            :
   xing             :
