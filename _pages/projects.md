@@ -11,7 +11,7 @@ redirect_from:
 
 Research Projects
 ======
-* Transformer with Hard-Coded Attention \[[pdf](https://www.aclweb.org/anthology/2020.acl-main.687.pdf)\] \[code](https://github.com/fallcat/stupidNMT)\]
+* Transformer with Hard-Coded Attention \[[pdf](https://www.aclweb.org/anthology/2020.acl-main.687.pdf)\] \[[code](https://github.com/fallcat/stupidNMT)\]
   * Modified multi-headed attention to hard-coded Gaussian attention
   * Reduced memory and inference time speed without much BLEU drop
 * RNN Machine Translation Faster Decoder
