@@ -11,6 +11,9 @@ redirect_from:
 
 Research Projects
 ======
+* Transformer with Hard-Coded Attention
+  * Modified multi-headed attention to hard-coded Gaussian attention
+  * Reduced memory and inference time speed without much BLEU drop
 * RNN Machine Translation Faster Decoder \[[pdf](/assets/pdf/rnn_faster_decoder.pdf)\] \[[code](https://github.com/fallcat/rnn_nmt_syntax)\]
   * Generate a fixed span of words at a time to speed up decoder
   * Tried to add syntax to improve performance. Proved that it will slow down the model
