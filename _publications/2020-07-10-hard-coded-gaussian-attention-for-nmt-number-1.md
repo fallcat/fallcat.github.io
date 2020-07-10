@@ -1,7 +1,7 @@
 ---
 title: "Hard-Coded Gaussian Attention for Neural Machine Translation"
 collection: publications
-permalink: /publication/2020-07-10-hard-coded-gaussian-attention-for-nmt-number-1
+permalink: /publications/2020-07-10-hard-coded-gaussian-attention-for-nmt-number-1
 excerpt: 'This paper is about using hard-coded Gaussian Attention instead of learned Multi-headed Attention in Transformer in Neural Machine Translation.'
 date: 2020-07-10
 venue: 'Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics'
