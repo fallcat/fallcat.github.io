@@ -11,10 +11,10 @@ redirect_from:
 
 Research Projects
 ======
-* Transformer with Hard-Coded Attention
+* Transformer with Hard-Coded Attention \[[pdf](https://www.aclweb.org/anthology/2020.acl-main.687.pdf)\] \[code](https://github.com/fallcat/stupidNMT)\]
   * Modified multi-headed attention to hard-coded Gaussian attention
   * Reduced memory and inference time speed without much BLEU drop
-* RNN Machine Translation Faster Decoder \[[pdf](/assets/pdf/rnn_faster_decoder.pdf)\] \[[code](https://github.com/fallcat/rnn_nmt_syntax)\]
+* RNN Machine Translation Faster Decoder
   * Generate a fixed span of words at a time to speed up decoder
   * Tried to add syntax to improve performance. Proved that it will slow down the model
 
@@ -24,10 +24,10 @@ Research Projects
 
 Course Projects
 ======
-* Scientific Paper Task, Problem and Contribution Identification and Tracking \[[pdf](/assets/pdf/sci_paper_kb.pdf)\] \[[code](https://github.com/fallcat/sci-paper-kb)\]
+* Scientific Paper Task, Problem and Contribution Identification and Tracking
   * Implemented candidates extraction by rules
   * Fine-tuned SciBERT on sentences that contain datasets to identify candidates that are true datasets
 
-* Chinese to English Machine Translation Specialized in Game of Go and Cooking Recipe (Low-Resource Setting) \[[pdf](/assets/pdf/go_nmt.pdf)\]
+* Chinese to English Machine Translation Specialized in Game of Go and Cooking Recipe (Low-Resource Setting)
   * LSTM machine translation with Data augmentation by concatenating specialized terms in the dictionary
   * Improved BLEU metric for comparison in specialized fields
