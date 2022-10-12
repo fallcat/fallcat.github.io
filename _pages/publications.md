@@ -7,6 +7,10 @@ redirect_from:
   - /publication
 ---
 
+* QuakerBot: A Household Dialog System Powered by Large Language Models \[[pdf]](https://www.amazon.science/alexa-prize/proceedings/quakerbot-a-household-dialog-system-powered-by-large-language-models)\]
+  * Artemis Panagopoulou, Manni Arora, Li Zhang, Dimitri Cugini, Weiqiu You, Yue Yang, Liyang Zhou, Yuxuan Wang, Zhaoyi Hou, Alyssa Hwang, Lara Martin, Sherry Shi, Chris Callison-Burch, Mark Yatskar
+
+
 * Macro-Average: Rare Types Are Important Too, NAACL 2021 \[[pdf](https://aclanthology.org/2021.naacl-main.90.pdf)\] \[[code](https://github.com/thammegowda/007-mt-eval-macro)\]
   * Thamme Gowda, Weiqiu You, Constantine Lignos, Jonathan May
 
