@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My 1 page cv can be found [here](/assets/pdf/cv.pdf)
+[CV](/assets/pdf/cv.pdf)
