@@ -1,0 +1,1 @@
+exps/attn_imagenet_base_1_1_s10_i3_o4_d0_bsz16_lr00005_wu1_inv_sam_new/best/val_results/71.pkl
