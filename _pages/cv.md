@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](/assets/pdf/cv.pdf)
+[CV](/assets/pdf/weiqiu_you_cv.pdf)

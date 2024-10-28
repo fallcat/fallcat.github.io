@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weiqiu You"
 title_separator          : "-"
 name                     : &name "Weiqiu You"
-description              : &description "Master Student of Computer Science at UMass Amherst"
+description              : &description "PhD Student of Computer Science at UPenn"
 url                      : https://fallcat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fallcat/fallcat.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weiqiu You"
   avatar           : "profile_pic2.jpg"
-  bio              : "4rd year PhD Student of Computer Science at University of Pennsylvania, research broadly interested in machine learning and explainable AI."
+  bio              : "5th year PhD Student of Computer Science at University of Pennsylvania, research broadly interested in trustworthy machine learning and medical AI."
   location         : "Philadelphia, PA"
   employer         :
   pubmed           :
