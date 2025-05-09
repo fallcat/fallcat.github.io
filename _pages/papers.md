@@ -6,15 +6,20 @@ author_profile: true
 redirect_from:
   - /papers
 ---
+
+* Sum-of-Parts: Self-Attributing Neural Networks with End-to-End Learning of Feature Groups \[[pdf](https://arxiv.org/abs/2310.16316)\] \[[blog](https://debugml.github.io/sum-of-parts/)\] \[[code](https://github.com/DebugML/sop)\]
+  * **Weiqiu You**, Helen Qu, Marco Gatti, Bhuvnesh Jain, Eric Wong
+  * ICML 2025 Poster
+
+* Probabilistic Stability Guarantees for Feature Attributions \[[pdf](https://arxiv.org/abs/2504.13787)\] \[[blog](https://debugml.github.io/soft-stability/)\] \[[code](https://github.com/helenjin/soft_stability/)\]
+  * Helen Jin\*, Anton Xue\*, **Weiqiu You**, Surbhi Goel, Eric Wong
+  
 * The FIX Benchmark: Extracting Features Interpretable to eXperts \[[pdf](https://arxiv.org/abs/2409.13684)\] \[[blog](https://debugml.github.io/fix/)\] \[[code](https://github.com/BrachioLab/exlib/tree/main/fix)\] \[[website](https://brachiolab.github.io/fix/)\]
   * Helen Jin, Shreya Havaldar, Chaehyeon Kim, Anton Xue, **Weiqiu You**, Helen Qu, Marco Gatti, Daniel A Hashimoto, Bhuvnesh Jain, Amin Madani, Masao Sako, Lyle Ungar, Eric Wong
 
 * Evaluating Groups of Features via Consistency, Contiguity, and Stability \[[pdf](https://openreview.net/forum?id=IP2etbIEuC)\] 
   * Chaehyeon Kim, **Weiqiu You**, Shreya Havaldar, Eric Wong
   * ICLR 2024 Tiny Paper Track
-
-* Sum-of-Parts Models: Faithful Attributions for Groups of Features \[[pdf](https://arxiv.org/abs/2310.16316)\] \[[blog](https://debugml.github.io/sum-of-parts/)\] \[[code](https://github.com/DebugML/sop)\]
-  * **Weiqiu You**, Helen Qu, Marco Gatti, Bhuvnesh Jain, Eric Wong
 
 * Visual Topics via Visual Vocabularies \[[pdf](https://openreview.net/forum?id=h6OT5pzrGc)\]
   * Shreya Havaldar\*, **Weiqiu You**\*, Lyle Ungar, Eric Wong
