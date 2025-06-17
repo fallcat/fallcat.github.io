@@ -12,6 +12,10 @@ My name is Weiqiu You (尤玮秋). I am a 5th year PhD student in Computer and I
 Previously, I was advised by [Prof. Mohit Iyyer](https://people.cs.umass.edu/~miyyer/) while I was a Master's student at UMass.
  <!-- [Prof Jon May](https://www.isi.edu/~jonmay/) while I was an intern at USC/ISI, and [Dr. Youngja Park](https://research.ibm.com/people/youngja-park) while I was an intern at IBM Research. -->
 
-I hope to build trustworthy ML models with faithful and verifiable explanations.
-I am broadly interested in trustworthy and explainable machine learning, with an extra focus of interest in AI for medicine. 
-Currently I'm building explainable models for safe surgeries.
+I am interested in:
+- Trustworthy ML
+- Faithful and Verifiable Explanations for ML
+- Evaluation Benchmarks in Expert Domains
+- ML for Cosmology and Surgery
+
+Some random essays in my [blog](https://valley-manatee-f47.notion.site/Blogs-2156e4d4139380efbe88f03ff15eb53f).
