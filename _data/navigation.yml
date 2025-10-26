@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /papers/
+  - title: "Publications"
+    url: /publications/
   # - title: "Projects"
   #   url: /projects/
 
@@ -14,11 +14,13 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+
 
   - title: "CV"
     url: /cv/
+
+  - title: "Blog Posts"
+    url: /blog-posts/
 
   - title: "Personal"
     url: /personal/
