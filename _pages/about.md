@@ -23,7 +23,7 @@ I am interested in:
 
 Here is my [CV](/assets/pdf/weiqiu_you_cv.pdf).
 
-Some random essays in my [blog](https://valley-manatee-f47.notion.site/Blogs-2156e4d4139380efbe88f03ff15eb53f).
+Some random essays in my [blog](/blog-posts/).
 
 _I am actively looking for postdoc and research scientist positions starting fall 2026._
 
