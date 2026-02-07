@@ -13,13 +13,7 @@ Previously, I was advised by [Prof. Mohit Iyyer](https://people.cs.umass.edu/~mi
  <!-- [Prof Jon May](https://www.isi.edu/~jonmay/) while I was an intern at USC/ISI, and [Dr. Youngja Park](https://research.ibm.com/people/youngja-park) while I was an intern at IBM Research. -->
 I have interned at Meta, OIST, IBM Research, USC ISI.
 
-
-I am interested in:
-- Trustworthy ML
-- Faithful and Verifiable Explanations for ML
-- Evaluation Benchmarks in Expert Domains
-- LLM Reasoning
-- ML for Cosmology and Surgery
+My research develops **structured explanation** frameworks building on foundation models. I focus on two directions: (1) designing _evaluation methods_ for large multimodal models that use LLMs as evaluators within principled frameworks, and (2) enabling _domain experts_ to understand and trust these models through structured explanations and reasoning chains. Through collaborations with experts in cosmology, surgery, and machine learning engineering, I've found that structure is essential for both model predictions and their evaluation --- providing the interpretability and reliability needed for high-stakes applications.
 
 Here is my [CV](/assets/pdf/weiqiu_you_cv.pdf).
 
