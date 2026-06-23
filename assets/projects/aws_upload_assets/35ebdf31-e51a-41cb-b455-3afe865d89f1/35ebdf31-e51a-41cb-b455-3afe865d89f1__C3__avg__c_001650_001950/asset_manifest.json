@@ -1,0 +1,23 @@
+{
+  "clip_id": "35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950",
+  "criterion": "C3",
+  "end_frame": 1950,
+  "frames": [
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001650.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001680.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001710.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001740.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001770.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001800.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001830.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001860.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001890.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001920.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/frames/frame_001950.png"
+  ],
+  "granularity": "coarse",
+  "missing_frames": [],
+  "start_frame": 1650,
+  "video": "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/35ebdf31-e51a-41cb-b455-3afe865d89f1/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950/video/35ebdf31-e51a-41cb-b455-3afe865d89f1__C3__avg__c_001650_001950__frame_overlay_2x.mp4",
+  "video_name": "35ebdf31-e51a-41cb-b455-3afe865d89f1"
+}

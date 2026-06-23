@@ -1,0 +1,28 @@
+{
+  "clip_id": "db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500",
+  "criterion": "C3",
+  "end_frame": 1500,
+  "frames": [
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001050.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001080.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001110.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001140.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001170.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001200.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001230.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001260.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001290.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001320.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001350.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001380.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001410.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001440.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001470.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/frames/frame_001500.png"
+  ],
+  "granularity": "coarse",
+  "missing_frames": [],
+  "start_frame": 1050,
+  "video": "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/db46924b-a5a3-4645-9868-0860f2c4618f/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500/video/db46924b-a5a3-4645-9868-0860f2c4618f__C3__avg__c_001050_001500__frame_overlay_2x.mp4",
+  "video_name": "db46924b-a5a3-4645-9868-0860f2c4618f"
+}

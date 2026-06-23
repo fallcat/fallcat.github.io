@@ -1,0 +1,18 @@
+{
+  "clip_id": "c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250",
+  "criterion": "C2",
+  "end_frame": 2250,
+  "frames": [
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002100.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002130.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002160.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002190.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002220.png",
+    "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/frames/frame_002250.png"
+  ],
+  "granularity": "coarse",
+  "missing_frames": [],
+  "start_frame": 2100,
+  "video": "/mnt/md0/weiqiuy/surgent/data/processed/CVS_Challenge_SAGES_v1/cvs_act_surgeon_annotations/aws_upload_assets/c8063d76-af4f-44da-afc6-12bcf8947595/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250/video/c8063d76-af4f-44da-afc6-12bcf8947595__C2__avg__c_002100_002250__frame_overlay_2x.mp4",
+  "video_name": "c8063d76-af4f-44da-afc6-12bcf8947595"
+}
